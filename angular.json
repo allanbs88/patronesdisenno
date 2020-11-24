@@ -117,8 +117,16 @@
               "devServerTarget": "prjtodo:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
-  "defaultProject": "prjtodo"
+    }
+  },
+  "defaultProject": "prjtodo",
+  "cli": {
+    "analytics": "a0b9511d-95ae-43ea-8b62-803205ba1c1f"
+  }
 }

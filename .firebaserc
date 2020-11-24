@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "to-do-1532c": {
+      "hosting": {
+        "prjtodo": [
+          "to-do-1532c"
+        ]
+      }
+    }
+  }
+}
